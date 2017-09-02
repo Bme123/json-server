@@ -1,0 +1,12 @@
+	{"a1": {"name":"kevin",
+	"Age":10,
+	"zipcode":90000
+	},
+	"a2":{ "name":"Sam",
+	"age":11,
+	"zipcode": 90001,
+	},
+	"a3" :{"name":"paul",
+	"age":15,
+	"zipcode":90002
+	}
